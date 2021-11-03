@@ -1,0 +1,2 @@
+# LodingBar
+ Barra de loading
